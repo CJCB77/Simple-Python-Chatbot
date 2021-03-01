@@ -4,7 +4,7 @@ Creating a simple Python chatbot using natural language processing and deep lear
 
 ## Nombre
 <p>Carlos Johnny Coral Brito</p>
-### Email
+<strong>Email:</strong>
 <p>ccoralb@est.ups.edu.ec</p>
-#### Materia
+<strong>Materia:</strong>
 <p>Software Libre</p>
